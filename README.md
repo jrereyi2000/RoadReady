@@ -8,5 +8,12 @@ The frontend for the app, built in React Native, lives in the client/ folder and
 TO RUN APP:
 
 Clone repo using `git clone https://github.com/jrereyi2000/RoadReady.git`
+
 Navigate to the client folder using `cd client`
+
 Run app using `npm run ios` or `yarn ios`
+
+
+For testing purposes, please use one of the following Badge Ids:
+
+zEdaZ5Y2LJ, bBpnZCG94s, FaonocYWv1, acbANcunNj, 2CGKJbjVzR
